@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
             ),
             child: Center(
               child: Text(
-                'Hello world',
+                'Hello world beautiful',
               ),
             ),
           ),
